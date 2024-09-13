@@ -1,3 +1,138 @@
+body {
+	margin: 1.5em;
+}
+
+/* nav {
+	background-color: white;
+	position: fixed;
+	dis
+} */
+
+nav ul {
+	display: flex;
+	list-style-type: none;
+	/* margin: 1em; */
+	justify-content: space-around;
+	padding: 0.5em;
+	align-items: center;
+	justify-content: space-between;
+	background-color: white;
+}
+
+
+h2 {
+	justify-content: center;
+	display: flex;
+	padding-top: 0.7em;
+	color: white;
+}
+
+.welovecoffee {
+	background-color: rgb(221, 184, 140);
+	border-radius: 1.5em;
+	margin-bottom: 1.5em;
+	justify-items: center;
+	
+}
+
+
+.bestel {
+	color: white;
+	background-color: deeppink;
+	border-radius: 1.5em;
+	padding-bottom: 2em;
+}
+
+
+.bestel p {
+	margin-left: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.bestel a {
+	background-color: white;
+	justify-content: center;
+	text-decoration: none;
+	padding: 0.5em;
+	margin-left: 1em;
+	padding-left: 2em;
+	padding-right: 2em;
+	border-radius: 0.7em;
+	/* display: inline-block; */
+}
+
+.bestel a:nth-of-type(1) {
+	margin-right: 2em ;
+	color: deeppink;
+}
+
+.bestel a:nth-of-type(2) {
+	color: white;
+	background-color: #f950ad;
+}
+
+.nieuw {
+	color: white;
+	background-color: #92d7ee;
+	border-radius: 1.5em;
+	
+}
+
+.list li:nth-of-type(1){
+	padding: 1em;
+	background-color: aliceblue;
+	border-radius: 1em;
+	border-color: #111;
+	color: deeppink;
+	list-style-type: none;
+	
+
+}
+
+.list li:nth-of-type(2){
+	background-color: blue;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /**************/
 /* CSS REMEDY */
 /**************/
